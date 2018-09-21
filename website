@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Photos & Quotes</title
+  
+  <meta charset="utf-8">
+</head>
+<body>
+  <header>
+    <h1>Nature Photos and Popular Quotes</h1>
+</header>
+  <main>
+    <article class="articles">
+      <h2></h2>
+      <p></P>
+    </article>
