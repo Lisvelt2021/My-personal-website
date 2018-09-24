@@ -1,16 +1,20 @@
 <!DOCTYPE html>
-<html lang="en">
+<a href="http://www.photos&quotes.com" target="_self">Photos&Quotes</a>
+<html lang="en"
 <head>
-  <title>Photos & Quotes</title
-  
+  <title>Photos & Quotes</title>
   <meta charset="utf-8">
 </head>
 <body>
   <header>
-    <h1>Nature Photos and Popular Quotes</h1>
+    <h1>Original Photos and Popular Quotes</h1>
 </header>
   <main>
     <article class="articles">
-      <h2></h2>
-      <p></P>
+    <h2>What's on this website</h2>
+      <p>On this website there is going to be a variety of photos that I have taken with popular quotes on them. Some of the photos that are going
+      to be on here will not have a quote in them it'll just be the photo that I have taken, or the quote will be beside the photo shown on this
+      website. Keep scrolling down to see lots of original photos and popular quotes. </P>
+      <img src="myimage.jpg" width="270x270" height="300x300"> <img src="myimage2.jpg" width="270x270" height="300x300">
+
     </article>
