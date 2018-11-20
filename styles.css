@@ -32,18 +32,11 @@ h4 {
 	font-size: 24px;
 	color:black;
 }
-.images {
-	width: 260px;
-	height: 200px;
-}
-
-@media only screen and (max-width: 600px) {
-.left {
-		width: 100%;
-		float: none;
-	}
 	
 .images {
-	width: 100px;
+	width: 100%px;
 }
+
+.images {
+	width: 30%;
 }
