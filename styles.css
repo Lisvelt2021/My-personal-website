@@ -33,10 +33,9 @@ h4 {
 	color:black;
 }
 	
-.images {
-	width: 100%px;
+@media screen and (min-width:200px) and (max-width:1000px){
 }
 
 .images {
-	width: 30%;
+	width: 270px;
 }
