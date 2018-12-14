@@ -12,7 +12,7 @@ section, footer {
 } 
 
 body {
-	background-color: thistle;
+	background-color: lavender;
 }
 		
 h1 {
@@ -33,6 +33,12 @@ h4 {
 	color:black;
 }
 
+@media screen and (min-width: 500px) {
+  body {
+    background-color: LightSteelBlue;
+  }
+}
+
 .imagesp1 {
 	width: 40%
 }
@@ -47,13 +53,13 @@ h4 {
 }
 
 .imagesp2 {
-	width: 45%
+	width: 42%
 }
 
 @media screen and (min-width:250px) and (max-width:1000px){
 	
 	.images2 {
-		width: 60%
+		width: 80%
 }
 	
 }
