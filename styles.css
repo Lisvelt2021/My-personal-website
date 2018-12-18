@@ -33,6 +33,12 @@ h4 {
 	color:black;
 }
 
+@media screen and (min-width:100px){
+	body {
+		word-size: 20%;
+	}
+}
+
 @media screen and (min-width: 500px) {
   body {
     background-color: LightSteelBlue;
@@ -40,7 +46,7 @@ h4 {
 }
 
 .imagesp1 {
-	width: 40%
+	width: 37%
 }
 	
 
@@ -53,7 +59,7 @@ h4 {
 }
 
 .imagesp2 {
-	width: 42%
+	width: 36%
 }
 
 @media screen and (min-width:250px) and (max-width:1000px){
